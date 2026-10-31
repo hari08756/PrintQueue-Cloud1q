@@ -1,0 +1,12 @@
+**/target/
+**/node_modules/
+**/build/
+**/.gradle/
+**/.idea/
+**/local.properties
+**/private-uploads/
+.env
+
+.env
+.env.*
+!*.env.example
